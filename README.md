@@ -4,6 +4,6 @@ This is Mundia: Building Friendships without a Barrier. Mundia looks to connect 
 
 *Note: Still somewhat incomplete.
 
-If you wish to run the server locally (we haven't uploaded it to cloud yet), run the command "node mundia.js" in your terminal after downloading node, npm, and all the packages we used, listed below:
+If you wish to run the server locally (we haven't uploaded it to cloud yet), run the command "node mundia.js" in your terminal after downloading anything you don't have out of this repo, node.js, npm, and all the packages we used, listed below:
 
 mongodb, body-parser, express, path, child-process
